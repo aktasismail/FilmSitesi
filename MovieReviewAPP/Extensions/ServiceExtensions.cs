@@ -93,21 +93,20 @@ namespace MovieReviewAPP.Extensions
                         Title = "Film sitesi",
                         Version = "v1",
                         Description = "Film izleme",
-                        TermsOfService = new Uri("https://www.btkakademi.gov.tr/"),
+                        TermsOfService = new Uri("https://www.ismailaktas.net/"),
                         Contact = new OpenApiContact
                         {
                             Name = "İsmail Aktaş",
                             Email = "ismail@gmail.com",
-                            Url = new Uri("https://www.zafercomert.com")
+                            Url = new Uri("https://www.ismailaktas.net")
                         }
                     });
 
-                s.SwaggerDoc("v2", new OpenApiInfo { Title = "BTK Akademi", Version = "v2" });
+                s.SwaggerDoc("v2", new OpenApiInfo { Title = "Film", Version = "v2" });
 
                 s.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
                 {
                     In = ParameterLocation.Header,
-                    Description = "Place to add JWT with Bearer",
                     Name = "Authorization",
                     Type = SecuritySchemeType.ApiKey,
                     Scheme = "Bearer"
