@@ -1,0 +1,40 @@
+﻿@if (User.IsInRole("Admin"))
+{
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" asp-area="Admin" asp-controller="Admin" asp-action="Index">
+            Yönetim
+        </a>
+    </li>
+}
+@if (User.Identity.IsAuthenticated)
+{
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" href="User/User/MyProfile/@User.Identity.Name">
+            <i class="fa-solid fa-right-from-bracket"></i>
+            @User.Identity.Name
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" asp-area="" asp-controller="Account"
+            asp-action="Logout">
+            Çıkış Yap
+        </a>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" asp-area="" asp-controller="Account"
+            asp-action="Login">
+            <i class="bi bi-person-circle"></i>
+            Giriş Yap
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" asp-area="" asp-controller="Account"
+            asp-action="Register">
+            <i class="bi bi-person-plus-fill"></i>
+            Kayıt Ol
+        </a>
+    </li>
+}

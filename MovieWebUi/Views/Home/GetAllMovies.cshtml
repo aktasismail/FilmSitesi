@@ -1,0 +1,107 @@
+﻿@model List<MovieDTO>
+@{
+    ViewData["Title"] = "Home Page";
+    int MaxRate = 10;
+}
+<div class="popular_2 row mt-4">
+    <div class="tab-content">
+        <div class="my-3">
+            <h6 class="lead">
+                <i class="fa fa-filter text-secondary"></i>
+                Imdb puanına göre listele
+            </h6>
+        </div>
+        <div class="my-2">
+            <form method="get" asp-action="GetAllMovies">
+                <div class="flex-xxl-row">
+                    <span>İmdb Puanı En Az :</span>
+                    <span>
+                        <select class="form-select" width="20px" name="param">
+                            <option value="MinRate=1">1</option>
+                            <option value="MinRate=2">2</option>
+                            <option value="MinRate=3">3</option>
+                            <option value="MinRate=4">4</option>
+                            <option value="MinRate=5">5</option>
+                            <option value="MinRate=6">6</option>
+                            <option value="MinRate=7">7</option>
+                            <option value="MinRate=8">8</option>
+                            <option value="MinRate=9">9</option>
+                        </select>
+                    </span>
+                    <span>
+                        <button type="submit" class="btn btn-sm btn-primary">
+                            Listele
+                        </button>
+                    </span>
+                </div>
+            </form>
+            <form method="get" asp-action="GetAllMovies">
+                <p>İmdb Puanı En Fazla :</p> <select name="param">
+                    <option value="MaxRate=1">1</option>
+                    <option value="MaxRate=2">2</option>
+                    <option value="MaxRate=3">3</option>
+                    <option value="MaxRate=4">4</option>
+                    <option value="MaxRate=5">5</option>
+                    <option value="MaxRate=6">6</option>
+                    <option value="MaxRate=7">7</option>
+                    <option value="MaxRate=8">8</option>
+                    <option value="MaxRate=9">9</option>
+                </select>
+                <button type="submit" class="btn btn-sm btn-primary">
+                    <i class="bi bi-filter-circle-fill"></i>
+                    Listele
+                </button>
+            </form>
+            <form method="get" asp-action="GetAllMovies">
+                <p>Sırala :</p> <select name="param">
+                    <option value="OrderBy=Moviename%20asc">A dan Zye</option>
+                    <option value="OrderBy=Moviename%20desc">Z den A ya</option>
+                </select>
+                <button type="submit" class="btn btn-sm btn-primary">
+                    <i class="bi bi-filter-circle-fill"></i>
+                    Sırala
+                </button>
+            </form>
+        </div>
+
+
+        <div class="tab-pane active" id="home">
+            <div class="popular_2i row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-md-6">
+                        <div class="popular_2i1 row">
+                            <div class="col-md-4 col-4">
+                                <div class="popular_2i1lm position-relative clearfix">
+                                    <div class="popular_2i1lm1 clearfix">
+                                        <div class="grid">
+                                            <figure class="effect-jazz mb-0">
+                                                <a href="#"><img src="@item.ImageUrl" class="w-100" alt="img25"></a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="popular_2i1lm2 position-absolute top-0 w-100 text-center clearfix">
+                                        <ul>
+                                            <li class="d-inline-block"><a href="#"><i class="fa fa-link col_red"></i></a></li>
+                                            <li class="d-inline-block"><a href="#"><i class="fa fa-search col_red"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-8 col-8">
+                                <div class="popular_2i1r">
+                                    <h5><a class="col_red" href="#">@item.Moviename</a></h5>
+                                    <h6>Yönetmen @item.Director</h6>
+                                    <h6> Imdb @item.ImdbRate  Year : @item.Year <span class="ms-2">Film süresi: @item.Duration</span></h6>
+                                    <p>@item.MovieDetail.Substring(0, 120)</p>
+                                    <h6 class="mb-0"><a class="button" asp-controller="Home" asp-action="MovieDetails" asp-route-id="@item.Id"> İzle</a></h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

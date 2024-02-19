@@ -1,0 +1,63 @@
+﻿@model MovieDTO
+<div class="text-center">
+    <div class="display-6">Film Güncelleme</div>
+</div>
+
+<form method="post" asp-action="UpdateMovie" enctype="multipart/form-data">
+
+    <input type="hidden" asp-for="Id"/>
+    <div class="form-group my-3">
+        Film Türü
+        <select class="form-control" asp-items="@ViewBag.Genre" asp-for="GenreId">
+        </select>
+    </div>
+    <div class="form-group my-3">
+        Film Adı
+        <input asp-for="Moviename" class="form-control" />
+    </div>
+
+    <div class="form-group my-3">
+        Açıklama
+        <input asp-for="MovieDetail" class="form-control" />
+    </div>
+
+    <div class="form-group my-3">
+        Oyuncular
+        <input asp-for="Cast" class="form-control" />
+    </div>
+    <div class="form-group my-3">
+        <label asp-for="Year"></label>
+        <input asp-for="Year" class="form-control" />
+    </div>
+
+    <div class="form-group my-3">
+        Yönetmen
+        <input asp-for="Director" class="form-control" />
+    </div>
+
+    <div class="form-group my-3">
+        Süre
+        <input asp-for="Duration" class="form-control" />
+    </div>
+
+    <div class="form-group my-3">
+        Imdb Puanı
+        <input asp-for="ImdbRate" class="form-control" />
+    </div>
+    <div class="form-group my-3">
+        <label asp-for="ImageUrl"></label>
+        <input asp-for="ImageUrl" class="form-control" />
+    </div>
+    <div class="form-group my-3">
+        Görsel
+        <input asp-for="MovieSource" class="form-control" />
+    </div>
+    <div class="form-group my-3">
+        <div class="btn-group">
+            <button class="btn btn-primary" type="submit">
+                <i class="fa fa-save"></i>
+                Güncelle
+            </button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,121 @@
+﻿@model IEnumerable<MovieDTO>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<section id="trend" class="pt-4 pb-5">
+    <div class="container">
+        <div class="row trend_1">
+            <div class="col-md-6 col-6">
+                <div class="trend_1l">
+                    <h4 class="mb-0">Yeni eklenen filmler</h4>
+                </div>
+            </div>
+            <div class="col-md-6 col-6">
+                <div class="trend_1r text-end">
+                    <h6 class="mb-0"><a class="button" asp-action="GetAllMovies"> Tümünü göster</a></h6>
+                </div>
+            </div>
+        </div>
+        <div class="row trend_2 mt-4">
+            <div id="carouselExampleCaptions1" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleCaptions1" data-bs-slide-to="0" class="active" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions1" data-bs-slide-to="1" aria-label="Slide 2" class="" aria-current="true"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="trend_2i row">
+                            @foreach (var item in Model.Take(4))
+                            {
+                                <div class="col-md-3 col-6">
+                                    <div class="trend_2im clearfix position-relative">
+                                        <div class="trend_2im1 clearfix">
+                                            <div class="grid">
+                                                <figure class="effect-jazz mb-0">
+                                                    <a href="#"><img src="@item.ImageUrl" class="w-100" alt="yok"></a>
+                                                 </figure>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="trend_2ilast bg_grey p-3 clearfix">
+                                        <h5><a class="col_red" href="/Home/MovieDetail/@item.Id">@item.Moviename</a></h5>
+                                        <p class="mb-2">@item.MovieDetail.Substring(0, 70)...</p>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="trend_2i row">
+                            @foreach (var item in Model.Skip(4).Take(4))
+                            {
+                                <div class="col-md-3 col-6">
+                                    <div class="trend_2im clearfix position-relative">
+                                        <div class="trend_2im1 clearfix">
+                                            <div class="grid">
+                                                <figure class="effect-jazz mb-0">
+                                                    <a href="#"><img src="@item.ImageUrl" class="w-100" alt="yok"></a>
+                                                </figure>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="trend_2ilast bg_grey p-3 clearfix">
+                                        <h5><a class="col_red" href="/Home/MovieDetail/@item.Id">@item.Moviename</a></h5>
+                                        <p class="mb-2">@item.MovieDetail.Substring(0, 70)...</p>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="popular" class="pt-4 pb-5 bg_grey">
+    <div class="container">
+        <div class="row trend_1">
+            <div class="col-md-12">
+                <div class="trend_1l">
+                    <h4 class="mb-0">En çok izlenenler </h4>
+                </div>
+            </div>
+        </div>
+        <div class="popular_2 row mt-4">
+            <div class="tab-content">
+                <div class="tab-pane active" id="home">
+                    <div class="popular_2i row">
+                        @foreach (var item in Model.Take(6))
+                        {
+                            <div class="col-md-6">
+                                <div class="popular_2i1 row">
+                                    <div class="col-md-4 col-4">
+                                        <div class="popular_2i1lm position-relative clearfix">
+                                            <div class="popular_2i1lm1 clearfix">
+                                                <div class="grid">
+                                                    <figure class="effect-jazz mb-0">
+                                                        <a href="#"><img src="@item.ImageUrl" class="w-100" alt="img25"></a>
+                                                    </figure>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-8 col-8">
+                                        <div class="popular_2i1r">
+                                            <h5><a class="col_red" href="/Home/MovieDetail/@item.Id">@item.Moviename</a></h5>
+                                            <h6>Yönetmen @item.Director</h6>
+                                            <h6> Imdb @item.ImdbRate  Year : @item.Duration <span class="ms-2"> Film süresi: @item.Duration</span></h6>
+                                            <p>@item.MovieDetail)</p>
+                                            <h6 class="mb-0"><a class="button" href="Home/MovieDetail/@item.Id"> İzle</a></h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

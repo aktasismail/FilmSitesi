@@ -1,0 +1,83 @@
+﻿@model DetailVM
+@{
+    ViewData["Title"] = "MovieDetails";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="filmizle responsive-iframe">
+                <iframe width="853" height="480" src="@Model.movietDto.MovieSource" title="@Model.movietDto.Moviename" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <div class="detaylar">
+                <h4>@Model.movietDto.Moviename</h4>
+                <hr>
+                <p>@Model.movietDto.MovieDetail</p>
+            </div>
+            @* <form asp-controller="Home" class="form-control mb-4" asp-action="CreateComment" method="post">
+
+                <input hidden asp-for="Comments.MovieId" value="@Model.movieDto.MovieId" />
+                <div class="form-group">
+                    <label for="message">Ad Soyad</label>
+                    <input asp-for="@Model.Comments.Tittle" value=" " cols="30" rows="5" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label for="message">Yorumunuz</label>
+                    <textarea asp-for="@Model.Comments.CommentText" cols="30" rows="5" class="form-control"></textarea>
+                </div>
+                <div class="form-group mb-0">
+                    <input type="submit" value="Yorum yap" class="btn btn-primary px-3">
+                </div>
+            </form>
+            <h3>Yorumlar</h3>
+            <div class="border border-primary mt-4">
+                @foreach (var item in Model.Comment)
+                {
+                    <div class="list-group mt-3">
+                        <div class="list-group-item bg-black d-flex py-3">
+                            <div class="d-flex w-100 justify-content-between">
+                                <div>
+                                    <h6>@item.Tittle</h6>
+                                    <p opacity-75">@item.CommentText</p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+                }
+            </div> *@
+
+        </div>
+        <div class="col-md-3 ">
+            <div class="card mb-4 bg-black mt-5">
+                <div class="card-header">
+                    <img class="img-fluid" src="@Model.movietDto.ImageUrl" />
+                </div>
+                <div class="card-body   ">
+                    <h1 class="card-title " />
+                    <ul class="list-group h6 mt-3 mb-4">
+                        <li>Yönetmen : @Model.movietDto.Director</li>
+                        <li>Imdb puanı :@Model.movietDto.ImdbRate</li>
+                        <li>Uzunluk: @Model.movietDto.Duration</li>
+                        <li>Çıkış tarihi: @Model.movietDto.Year</li>
+                        <li>Oyuncular : @Model.movietDto.Cast</li>
+                    </ul>
+
+                </div>
+            </div>
+@*             @await Component.InvokeAsync("MovieDetail")*@
+        </div>
+        <form asp-controller="Home" asp-action="AddComment" method="post">
+            <div class="ia_comment">
+                <input hidden name="id" value="@Model.movietDto.Id" />
+                <input class="ia_input_comment" name="name" placeholder="Kullanıcı Adı" />
+                <textarea class="ia_textarea" name="text" placeholder="Yorumunuz"></textarea>
+                <button type="submit" class="ia_button_comment"><img height="26px" src="~/image/send.svg" /></button>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

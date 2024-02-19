@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CommentDTO>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="text-center my-5 border-bottom">
+    <div class="display-6">Yorumlar</div>
+</div>
+<div class="row">
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th>Ad Soyad</th>
+                <th>Yorum</th>
+                <th>Silme</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var comment in Model)
+            {
+                <tr>
+                    <td>@comment.FullName</td>
+                    <td>@comment.CommentText</td>
+                    <td>
+                        <a title="Sil" class="btn btn-danger"
+                           asp-action="DeleteComment" asp-route-id="@comment.CommentId">
+                            <i class="bi bi-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

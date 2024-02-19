@@ -1,0 +1,442 @@
+2023-10-10 00:04:15.2710 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-10 00:04:15.3246 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-10 00:04:15.3537 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-10 00:04:15.3899 Info Configuration initialized.
+2023-10-10 00:08:30.6942 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-10 00:08:30.7477 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-10 00:08:30.8043 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-10 00:08:30.9216 Info Configuration initialized.
+2023-10-12 18:15:38.4591 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 18:15:38.5486 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 18:15:38.6174 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 18:15:38.6737 Info Configuration initialized.
+2023-10-12 19:55:13.1439 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 19:55:13.2573 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 19:55:13.3771 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 19:55:13.5808 Info Configuration initialized.
+2023-10-12 20:00:08.1957 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 20:00:08.2840 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 20:00:08.3541 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 20:00:08.4124 Info Configuration initialized.
+2023-10-12 20:54:46.9452 Info AppDomain Shutting down. LogFactory closing...
+2023-10-12 20:54:47.0379 Info LogFactory has been closed.
+2023-10-12 20:57:17.1374 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 20:57:17.2097 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 20:57:17.2531 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 20:57:17.2910 Info Configuration initialized.
+2023-10-12 21:57:57.1452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 21:57:57.1959 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 21:57:57.2240 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 21:57:57.2432 Info Configuration initialized.
+2023-10-12 22:01:14.8079 Info AppDomain Shutting down. LogFactory closing...
+2023-10-12 22:01:14.8408 Info LogFactory has been closed.
+2023-10-12 22:01:51.5865 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:01:51.6346 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:01:51.6722 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:01:51.7225 Info Configuration initialized.
+2023-10-12 22:04:09.2049 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:04:09.2684 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:04:09.3021 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:04:09.3237 Info Configuration initialized.
+2023-10-12 22:20:17.5785 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:20:17.7012 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:20:17.7703 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:20:17.8916 Info Configuration initialized.
+2023-10-12 22:28:55.5353 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:28:55.5806 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:28:55.6176 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:28:55.6417 Info Configuration initialized.
+2023-10-12 22:33:46.6880 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:33:46.7377 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:33:46.7758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:33:46.8059 Info Configuration initialized.
+2023-10-12 22:34:05.9303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:34:05.9679 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:34:05.9975 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:34:06.0228 Info Configuration initialized.
+2023-10-12 22:35:30.0963 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:35:30.1337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:35:30.1645 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:35:30.1901 Info Configuration initialized.
+2023-10-12 22:36:35.2297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-12 22:36:35.2802 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-12 22:36:35.3058 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-12 22:36:35.3345 Info Configuration initialized.
+2023-10-16 21:35:05.5740 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-16 21:35:05.6442 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-16 21:35:05.6798 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-16 21:35:05.7115 Info Configuration initialized.
+2023-10-16 21:47:19.9366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-16 21:47:19.9964 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-16 21:47:20.0264 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-16 21:47:20.0506 Info Configuration initialized.
+2023-10-16 21:53:58.7525 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-16 21:53:58.8629 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-16 21:53:58.9908 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-16 21:53:59.1030 Info Configuration initialized.
+2023-10-16 22:01:40.0416 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-16 22:01:40.1661 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-16 22:01:40.2164 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-16 22:01:40.2535 Info Configuration initialized.
+2023-10-16 22:01:59.8769 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-16 22:01:59.9178 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-16 22:01:59.9548 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-16 22:01:59.9778 Info Configuration initialized.
+2023-10-16 22:03:22.9994 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-16 22:03:23.0985 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-16 22:03:23.1605 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-16 22:03:23.2089 Info Configuration initialized.
+2023-10-16 22:09:47.6497 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-16 22:09:47.6901 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-16 22:09:47.7141 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-16 22:09:47.7319 Info Configuration initialized.
+2023-10-22 00:25:51.1988 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-22 00:25:51.2533 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-22 00:25:51.2866 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-22 00:25:51.3105 Info Configuration initialized.
+2023-10-23 21:53:16.3868 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 21:53:16.4469 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-23 21:53:16.4900 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-23 21:53:16.5061 Info Configuration initialized.
+2023-10-23 22:57:08.6229 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 22:57:08.7257 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-23 22:57:08.7841 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-23 22:57:08.8761 Info Configuration initialized.
+2023-10-23 22:59:22.5942 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 22:59:22.7166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-23 22:59:22.8807 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-23 22:59:22.9442 Info Configuration initialized.
+2023-10-23 23:14:24.5583 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 23:14:24.6347 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-23 23:14:24.7130 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-23 23:14:24.7967 Info Configuration initialized.
+2023-10-23 23:15:31.1440 Info AppDomain Shutting down. LogFactory closing...
+2023-10-23 23:15:31.1855 Info LogFactory has been closed.
+2023-10-25 18:11:37.3628 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-25 18:11:37.4040 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-25 18:11:37.4250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-25 18:11:37.4458 Info Configuration initialized.
+2023-10-25 18:16:34.6932 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-25 18:16:34.7314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-25 18:16:34.7633 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-25 18:16:34.7797 Info Configuration initialized.
+2023-10-25 18:17:42.4297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-25 18:17:42.4609 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-25 18:17:42.4852 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-25 18:17:42.4852 Info Configuration initialized.
+2023-10-25 18:21:02.2878 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-25 18:21:02.3314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-25 18:21:02.3558 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-25 18:21:02.3745 Info Configuration initialized.
+2023-10-25 18:22:44.4225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-25 18:22:44.4575 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-25 18:22:44.4778 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-25 18:22:44.4953 Info Configuration initialized.
+2023-10-25 18:27:06.3648 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-25 18:27:06.4031 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-10-25 18:27:06.4247 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\source\repos\MovieReviewAPP\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2023-10-25 18:27:06.4418 Info Configuration initialized.
+2024-01-20 14:27:03.8501 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:27:03.9230 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:27:03.9977 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:27:04.0350 Info Configuration initialized.
+2024-01-20 14:28:54.7884 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:28:54.8375 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:28:54.8795 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:28:54.9036 Info Configuration initialized.
+2024-01-20 14:29:58.4036 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:29:58.4515 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:29:58.4978 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:29:58.5710 Info Configuration initialized.
+2024-01-20 14:30:42.6381 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:30:42.6746 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:30:42.6967 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:30:42.7212 Info Configuration initialized.
+2024-01-20 14:31:06.7796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:31:06.8146 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:31:06.8362 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:31:06.8532 Info Configuration initialized.
+2024-01-20 14:32:07.9118 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:32:07.9508 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:32:07.9723 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:32:07.9915 Info Configuration initialized.
+2024-01-20 14:45:33.6526 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:45:33.7110 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:45:33.7488 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:45:33.7749 Info Configuration initialized.
+2024-01-20 14:47:03.7559 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:47:03.7950 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:47:03.8197 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:47:03.8380 Info Configuration initialized.
+2024-01-20 14:48:30.2911 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:48:30.3514 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:48:30.3850 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:48:30.4383 Info Configuration initialized.
+2024-01-20 14:50:19.9576 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 14:50:20.0143 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 14:50:20.0575 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 14:50:20.1250 Info Configuration initialized.
+2024-01-20 15:04:47.1735 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 15:04:47.2342 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 15:04:47.2807 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 15:04:47.3332 Info Configuration initialized.
+2024-01-20 15:06:04.3277 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 15:06:04.3820 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 15:06:04.4176 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 15:06:04.4466 Info Configuration initialized.
+2024-01-20 15:32:09.7264 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 15:32:09.8115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 15:32:09.8532 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 15:32:09.8792 Info Configuration initialized.
+2024-01-20 15:34:09.7200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 15:34:09.7721 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 15:34:09.8532 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 15:34:09.9209 Info Configuration initialized.
+2024-01-20 15:48:22.8682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 15:48:22.9102 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 15:48:22.9325 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 15:48:22.9744 Info Configuration initialized.
+2024-01-20 15:50:30.0178 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 15:50:30.0608 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 15:50:30.0829 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 15:50:30.1031 Info Configuration initialized.
+2024-01-20 16:38:39.3353 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 16:38:39.3722 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 16:38:39.3961 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 16:38:39.4185 Info Configuration initialized.
+2024-01-20 20:22:23.4750 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 20:22:23.5168 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 20:22:23.5381 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 20:22:23.5562 Info Configuration initialized.
+2024-01-20 23:48:44.2860 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-20 23:48:44.3659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-20 23:48:44.3978 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-20 23:48:44.4291 Info Configuration initialized.
+2024-01-21 19:27:05.4214 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-21 19:27:05.5970 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-21 19:27:05.6441 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-21 19:27:05.6793 Info Configuration initialized.
+2024-01-21 20:13:07.0943 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-21 20:13:07.2115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-21 20:13:07.2696 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-21 20:13:07.3108 Info Configuration initialized.
+2024-01-21 20:34:07.3112 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-21 20:34:07.4702 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-21 20:34:07.5109 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-21 20:34:07.5830 Info Configuration initialized.
+2024-01-21 20:45:48.0072 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-21 20:45:48.0819 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-21 20:45:48.1313 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-21 20:45:48.1769 Info Configuration initialized.
+2024-01-22 00:53:56.8500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 00:53:56.9209 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 00:53:56.9468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 00:53:56.9671 Info Configuration initialized.
+2024-01-22 00:58:48.5316 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 00:58:48.6331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 00:58:48.6809 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 00:58:48.7044 Info Configuration initialized.
+2024-01-22 11:38:01.5104 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 11:38:01.6351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 11:38:01.6595 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 11:38:01.6776 Info Configuration initialized.
+2024-01-22 11:41:56.2854 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 11:41:56.3353 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 11:41:56.3645 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 11:41:56.3883 Info Configuration initialized.
+2024-01-22 11:43:48.3536 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 11:43:48.4061 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 11:43:48.4378 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 11:43:48.4665 Info Configuration initialized.
+2024-01-22 11:47:12.9645 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 11:47:13.0742 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 11:47:13.1566 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 11:47:13.2279 Info Configuration initialized.
+2024-01-22 11:51:02.7904 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 11:51:02.8348 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 11:51:02.8737 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 11:51:02.9017 Info Configuration initialized.
+2024-01-22 12:41:09.8991 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 12:41:09.9502 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 12:41:09.9822 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 12:41:10.0112 Info Configuration initialized.
+2024-01-22 12:43:44.1144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 12:43:44.1666 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 12:43:44.2018 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 12:43:44.2268 Info Configuration initialized.
+2024-01-22 12:48:17.2218 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 12:48:17.2605 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 12:48:17.2912 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 12:48:17.3181 Info Configuration initialized.
+2024-01-22 12:51:45.5497 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 12:51:45.5838 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 12:51:45.6184 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 12:51:45.6540 Info Configuration initialized.
+2024-01-22 13:08:14.1586 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 13:08:14.2116 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 13:08:14.2447 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 13:08:14.2712 Info Configuration initialized.
+2024-01-22 21:03:01.9384 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:03:02.0438 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:03:02.0654 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:03:02.0821 Info Configuration initialized.
+2024-01-22 21:11:17.4609 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:11:17.5594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:11:17.5846 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:11:17.6124 Info Configuration initialized.
+2024-01-22 21:12:02.9920 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:12:03.0314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:12:03.0532 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:12:03.0835 Info Configuration initialized.
+2024-01-22 21:13:06.5155 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:13:06.5431 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:13:06.5664 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:13:06.5831 Info Configuration initialized.
+2024-01-22 21:21:30.0605 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:21:30.0979 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:21:30.1379 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:21:30.1642 Info Configuration initialized.
+2024-01-22 21:34:29.3054 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:34:29.3394 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:34:29.3754 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:34:29.4011 Info Configuration initialized.
+2024-01-22 21:35:57.1435 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:35:57.1945 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:35:57.2251 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:35:57.2571 Info Configuration initialized.
+2024-01-22 21:38:22.8084 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 21:38:22.8431 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 21:38:22.8764 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 21:38:22.9158 Info Configuration initialized.
+2024-01-22 23:42:05.3311 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-22 23:42:05.3632 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-22 23:42:05.3837 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-22 23:42:05.4006 Info Configuration initialized.
+2024-01-23 00:02:46.6602 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-23 00:02:46.7118 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-23 00:02:46.7496 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-23 00:02:46.7668 Info Configuration initialized.
+2024-01-23 00:04:57.0270 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-23 00:04:57.0698 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-23 00:04:57.0971 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-23 00:04:57.1139 Info Configuration initialized.
+2024-01-23 00:06:58.4061 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-23 00:06:58.4493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-23 00:06:58.4741 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-23 00:06:58.4945 Info Configuration initialized.
+2024-01-23 12:20:50.7854 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-23 12:20:50.8626 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-23 12:20:50.8912 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-23 12:20:50.9152 Info Configuration initialized.
+2024-01-24 20:36:07.3314 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-24 20:36:07.4235 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-24 20:36:07.4509 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-24 20:36:07.4687 Info Configuration initialized.
+2024-01-24 20:40:13.0472 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-24 20:40:13.0965 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-24 20:40:13.1267 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-24 20:40:13.1552 Info Configuration initialized.
+2024-01-24 23:40:44.4845 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-24 23:40:44.5147 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-24 23:40:44.5421 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-24 23:40:44.5642 Info Configuration initialized.
+2024-01-24 23:44:16.4281 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-24 23:44:16.4578 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-24 23:44:16.4778 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-24 23:44:16.5004 Info Configuration initialized.
+2024-01-24 23:46:43.6857 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-24 23:46:43.7153 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-24 23:46:43.7391 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-24 23:46:43.7544 Info Configuration initialized.
+2024-01-24 23:49:23.7288 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-24 23:49:23.7629 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-24 23:49:23.7872 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-24 23:49:23.8069 Info Configuration initialized.
+2024-01-24 23:57:00.9579 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-24 23:57:00.9908 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-24 23:57:01.0134 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-24 23:57:01.0404 Info Configuration initialized.
+2024-01-25 00:21:24.9656 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 00:21:25.0324 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 00:21:25.0560 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 00:21:25.0740 Info Configuration initialized.
+2024-01-25 00:29:54.7131 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 00:29:54.7673 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 00:29:54.8045 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 00:29:54.8303 Info Configuration initialized.
+2024-01-25 00:38:11.9838 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 00:38:12.0285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 00:38:12.0559 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 00:38:12.0833 Info Configuration initialized.
+2024-01-25 00:46:45.4201 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 00:46:45.5127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 00:46:45.5691 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 00:46:45.6171 Info Configuration initialized.
+2024-01-25 00:59:28.6208 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 00:59:28.6717 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 00:59:28.7165 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 00:59:28.7544 Info Configuration initialized.
+2024-01-25 01:05:22.6505 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 01:05:22.7341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 01:05:22.7867 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 01:05:22.8337 Info Configuration initialized.
+2024-01-25 01:08:41.0620 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 01:08:41.0951 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 01:08:41.1215 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 01:08:41.1466 Info Configuration initialized.
+2024-01-25 14:30:31.2710 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 14:30:31.3455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 14:30:31.3792 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 14:30:31.4158 Info Configuration initialized.
+2024-01-25 14:32:28.9822 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 14:32:29.0285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 14:32:29.0683 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 14:32:29.0994 Info Configuration initialized.
+2024-01-25 22:39:35.8400 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 22:39:35.9371 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 22:39:35.9757 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 22:39:36.0197 Info Configuration initialized.
+2024-01-25 22:41:05.5399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 22:41:05.6137 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 22:41:05.6483 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 22:41:05.6793 Info Configuration initialized.
+2024-01-25 22:59:50.3456 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 22:59:50.4029 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 22:59:50.4451 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 22:59:50.4907 Info Configuration initialized.
+2024-01-25 23:01:08.5258 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 23:01:08.6036 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 23:01:08.6466 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 23:01:08.6744 Info Configuration initialized.
+2024-01-25 23:02:22.9703 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 23:02:23.0191 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 23:02:23.0524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 23:02:23.0922 Info Configuration initialized.
+2024-01-25 23:03:47.9881 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 23:03:48.0405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-25 23:03:48.0771 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-25 23:03:48.1079 Info Configuration initialized.
+2024-01-26 00:04:00.1886 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-26 00:04:00.2909 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-26 00:04:00.3297 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-26 00:04:00.3552 Info Configuration initialized.
+2024-01-26 00:21:08.8974 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-26 00:21:08.9505 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-26 00:21:08.9954 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-26 00:21:09.0284 Info Configuration initialized.
+2024-01-26 00:25:48.5820 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-26 00:25:48.6285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-26 00:25:48.6605 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-26 00:25:48.6903 Info Configuration initialized.
+2024-01-26 00:29:43.2516 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-26 00:29:43.3055 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-26 00:29:43.3587 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-26 00:29:43.3962 Info Configuration initialized.
+2024-01-26 00:55:49.2489 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-26 00:55:49.3016 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-26 00:55:49.3392 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-26 00:55:49.3647 Info Configuration initialized.
+2024-01-26 01:00:24.0172 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-26 01:00:24.0721 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-26 01:00:24.1060 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismail\Desktop\Çalışmalarım\MovieWebApiService\MovieReviewAPP\bin\Debug\net6.0\NLog.config
+2024-01-26 01:00:24.1372 Info Configuration initialized.

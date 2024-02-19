@@ -1,0 +1,19 @@
+﻿@model GenreCreatedDTO
+<div class="text-center">
+    <div class="display-6">Yeni Tür Ekle</div>
+</div>
+
+<form method="post" asp-action="CreateGenre" enctype="multipart/form-data">
+    <div class="form-group my-3">
+        Tür
+        <input asp-for="MovieGenre" class="form-control" />
+    </div>
+    <div class="form-group my-3">
+        <div class="btn-group">
+            <button class="btn btn-primary" type="submit">
+                <i class="fa fa-save"></i>
+                Ekle
+            </button>
+        </div>
+    </div>
+</form>

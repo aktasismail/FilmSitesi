@@ -1,0 +1,117 @@
+.carousel-caption{
+    text-align:left;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding:150px 150px;
+    bottom:0;
+    left:0;
+    width:100%;
+    height:100%;
+    color:#fff;
+     }
+    .carousel-caption p{
+    width:45%;
+     }
+    .carousel-indicators{
+    bottom:0; 
+     }
+    #trend{
+    border-top:2px solid #492efb;
+    }
+    #trend .carousel-indicators{
+    bottom:-50px; 
+     }
+    .trend_2im2{
+    padding-top:70px; 
+     }
+     
+    #upcome .carousel-indicators{
+    bottom:-50px; 
+     }
+    #upcome .trend_2im2{
+    padding-top:90px; 
+     }
+    .popular_1 .nav-tabs .nav-link{
+    color:#fff;
+    border:none;
+    display:block;
+    margin-left:8px;
+    margin-right:8px;
+    padding:0;
+    text-transform:uppercase;
+    border-radius:0;
+    background:none;
+    border-bottom:2px solid transparent;
+    padding-bottom:8px;
+     }
+    .popular_1 .nav-tabs .nav-link:hover{
+    color:#fff;
+    border-bottom:2px solid #492efb; 
+     }
+    .popular_1 .nav-tabs .nav-link.active{
+    color:#fff; 
+    border-bottom:2px solid #492efb;
+     }
+    @media screen and (max-width : 767px){
+    .center_home .carousel-caption{
+    padding:10px;
+    text-align:center; 
+     }
+    .center_home .carousel-caption p{
+    width:100%;
+    text-align:left;
+     }
+    
+    .center_home img{
+    min-height:350px; 
+     }
+    .center_home .font_60{
+    font-size:24px;
+     }
+    .center_home h6{
+    font-size:14px;
+    line-height:2em;
+     }
+    .center_home p{
+    font-size:14px;
+     }
+    .trend_2im{
+    margin-top:15px;
+     }
+    .trend_2ilast{
+    text-align:center; 
+     }
+    .popular_1 .nav-tabs li {
+    margin-bottom:5px;
+    }
+    .popular_2i1lm1 img{
+    max-height:240px; 
+     }
+    .popular_2i1r{
+    margin-top:15px;
+    text-align:center; 
+     }
+    .popular_2i1r p{
+    text-align:left; 
+     }
+    .popular_2i1{
+    margin-bottom:15px; 
+     }
+    
+     }
+    @media (min-width:576px) and (max-width:767px) {
+    .trend_1l{
+    text-align:left;
+     }
+    .trend_1r{
+    text-align:right!important;
+    margin-top:0; 
+     }
+    #popular .trend_1l{
+    text-align:center; 
+     }
+    .popular_2i1r{
+    text-align:left;
+    margin-top:0; 
+     }
+     }
+    
